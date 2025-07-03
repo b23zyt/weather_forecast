@@ -53,5 +53,5 @@ Here are some related projects
 
 ## Support
 
-For support, email benjaminzeng2110.com.
+For support, email benjaminzeng2110@gmail.com
 
